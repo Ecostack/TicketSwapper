@@ -20,7 +20,7 @@
   "dependencies": {
     "http2-client": "1.3.3",
     "lodash": "4.17.19",
-    "node-notifier": "6.0.0",
+    "node-notifier": "8.0.1",
     "yargs": "^15.1.0"
   },
   "devDependencies": {
