@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "http2-client": "1.3.3",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "node-notifier": "6.0.0",
     "yargs": "^15.1.0"
   },
